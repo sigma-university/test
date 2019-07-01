@@ -1,3 +1,9 @@
+html {
+    width: 100%;
+    background-color: #999;
+}
 body{
+    color: #373737;
     font-size: 14px;
+    line-height: 18px;
 }
