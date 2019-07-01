@@ -1,7 +1,13 @@
+html {
+    width: 100%;
+    background-color: #999;
+}
 body{
     font-family: 'Times New Roman', Times, serif;
     font-size: 14px;
     background-color:navy;
+    color: #373737;
+    line-height: 18px;
 }
 h1 {
     width: 100%;
